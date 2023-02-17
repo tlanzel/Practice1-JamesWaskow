@@ -1,17 +1,10 @@
 # Practice1-JamesWaskow
 
 1. James Waskow
-2. I call it glorified computer science
-3. 
-a. studying
-b. completing homework
-c. working on projects
-4. 
-a. calendars
-b. time blocking
-c. clean desk
 
-
+2. I call it glorified computer science, basically just computer science with statistics and math
+3. studying, completing homework, working on projects
+4. calendars, time blocking, having a clean desk
 
 
 # Tessa Lanzel
@@ -26,3 +19,4 @@ c. clean desk
 ### 3. What are the three most important tools/strategies you use for organizing your work? 
   Three most important tools/strategies I use for organizing my work: 
     Using a to-do list to break down assignments, creating a schedule to put the tasks I have in a particular order, and setting timers so I don't spend too much time       being unproductive on a single assigment
+=======
